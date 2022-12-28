@@ -1,0 +1,83 @@
+#signin-image {
+    height: 100vh;
+    width: 100%;
+    margin: 3em;
+  }
+  #main {
+    /* margin-top: 3em; */
+    display: flex;
+    justify-content: space-between;
+    background-color: #fafafa;
+  }
+  #box-signin {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10em;
+    width:30%;
+    margin: 3em;
+  }
+  #box-login {
+    border: 0.1em solid #dbdbdb;
+    border-radius: 0.2em;
+    padding: 3em;
+    background-color: white;
+  }
+  #box-login1-signin {
+    text-align: center;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    border: 0.1em solid #dbdbdb;
+    border-radius: 0.2em;
+    padding: 0.4em;
+    background-color: white;
+  }
+  #signup-link {
+    color: #0095f6;
+    font-weight: bold;
+    font-size: 1em;
+    cursor: pointer;
+    margin-left: 0.2em;
+  }
+  #input-box {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #app-flex {
+    display: flex;
+    justify-content: space-between;
+  }
+  #get-app-icon {
+    width: 8.3em;
+  }
+  #login-button {
+    background-color: rgba(var(--d69, 0, 149, 246), 0.3);
+    margin-top: 0.8em;
+    height: 2.4em;
+    width: 21em;
+    padding-left: 0.8em;
+    border: 0.1em solid #dbdbdb;
+    color: white;
+    cursor: pointer;
+  }
+  #login-button-active {
+    background-color: #0095f6;
+    margin-top: 0.8em;
+    height: 2.4em;
+    width: 21em;
+    padding-left: 0.8em;
+    border: 0.1em solid #dbdbdb;
+    color: white;
+    cursor: pointer;
+  }
+  #line {
+    width: 30%;
+    color: grey;
+  }
+  #or-value {
+    font-size: 1em;
+    font-weight: bold;
+    color: grey;
+  }

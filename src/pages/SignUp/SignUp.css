@@ -1,0 +1,93 @@
+#box {
+    display: flex;
+    margin: 3em;
+    width: 30%;
+    margin-left: 30em;
+    flex-direction: column;
+  }
+  #box-login {
+    border: 0.1em solid #dbdbdb;
+    border-radius: 0.2em;
+    padding: 3em;
+    background-color: white;
+  }
+  #instagram-image-icon{
+    margin-left: 4.2em;
+  }
+  #box-login1 {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    border: 0.1em solid #dbdbdb;
+    border-radius: 0.2em;
+    padding: 0.4em;
+    text-align: center;
+    background-color: white;
+  }
+  #signup-link {
+    color: #0095f6;
+    font-weight: bold;
+    font-size: 1em;
+    cursor: pointer;
+    margin-left: 0.2em;
+  }
+  #input-box {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  #facebook-login {
+    background-color: #0095f6;
+    color: white;
+    text-align: center;
+    padding: 0.2em;
+    border-radius: 0.2em;
+    background-color: rgba(var(--d69, 0, 149, 246), 1);
+    border: 1px solid transparent;
+  }
+  #heading {
+    margin-top: 0.6em;
+    color: #8e8e8e;
+    color: rgba(var(--f52, 142, 142, 142), 1);
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0 40px 10px;
+    text-align: center;
+  }
+  #app-flex {
+    margin-left: 18%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+  }
+  #get-app-icon {
+    width: 8.3em;
+  }
+  #login-button {
+    background-color: rgba(var(--d69, 0, 149, 246), 0.3);
+    margin-top: 0.8em;
+    height: 2.4em;
+    width: 21em;
+    padding-left: 0.8em;
+    border: 0.1em solid #dbdbdb;
+    color: white;
+  }
+  #login-button-active {
+    background-color: #0095f6;
+    margin-top: 0.8em;
+    height: 2.4em;
+    width: 21em;
+    padding-left: 0.8em;
+    border: 0.1em solid #dbdbdb;
+    color: white;
+  }
+  #line {
+    width: 30%;
+    color: grey;
+  }
+  #or-value {
+    font-size: 1em;
+    font-weight: bold;
+    color: grey;
+  }

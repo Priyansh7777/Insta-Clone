@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.7",
+    "@reduxjs/toolkit": "^1.8.5",
+    "axios": "^1.1.2",
+    "components": "^0.1.0",
     "dayjs": "^1.11.5",
     "jwt-decode": "^3.1.2",
     "jwt-encode": "^1.0.1",
@@ -10,7 +17,14 @@
     "mockman-js": "^1.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-elastic-carousel": "^0.11.5",
+    "react-ga": "^3.3.1",
+    "react-icons": "^4.6.0",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
+    "styled": "^1.0.0",
+    "styled-components": "^5.3.6",
     "uuid": "^8.3.2"
   },
   "scripts": {
